@@ -11,3 +11,5 @@ Neste repositório, serão registrados:
 3) Comparativos entre funções equivalentes em ambas as plataformas.
    
 Sugiro que você tenha um entendimento prévio sobre o que são Deno e Node.js antes de continuar a leitura, pois este projeto não fornecerá detalhes básicos sobre o que essas ferramentas representam.
+
+Por favor pode me dar uma estrela isso vai me ajudar bastante. Há me encentivar a continuar nesse projeto. 😊😉
